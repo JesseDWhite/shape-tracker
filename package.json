@@ -1,0 +1,16 @@
+{
+  "name": "triangle-tracker",
+  "version": "1.0.0",
+  "description": "* _List all_\r * _the major technologies_\r * _you used in your project_\r * _here\r ## Description\r _{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}\r ## Setup/Installation Requirements\r * _This is a great place_\r * _to list setup instructions_\r * _in a simple_\r * _easy-to-understand_\r * _format_\r _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_\r ## Known Bugs\r * _Any known issues_\r * _should go here_\r ## License\r _{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_\r ## Contact Information\r _{Add your contact information here.}_",
+  "main": "triangle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "4.39.3",
+    "webpack-cli": "^3.3.8"
+  }
+}
